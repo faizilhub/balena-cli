@@ -1,4 +1,20 @@
 - commits:
+    - subject: 'WIP: Improve error message for issues to access balena settings'
+      hash: a85aca839186046fab9472cd930fe2be40a654a3
+      body: |
+        TODO:
+        - update balena-settings-storage dependency
+        - update balena-errors dependency
+      footer:
+        Change-type: minor
+        change-type: minor
+        Resolves: '#1667'
+        resolves: '#1667'
+      author: josecoelho
+      nested: []
+  version: 12.24.0
+  date: 2020-09-29T19:34:26.797Z
+- commits:
     - subject: Add new command `support`
       hash: 0a8b3ce4e4a5b333f8aa6fd5f51e98444a42d966
       body: ''
