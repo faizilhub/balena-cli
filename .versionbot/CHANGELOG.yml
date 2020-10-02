@@ -1,4 +1,33 @@
 - commits:
+    - subject: Update CONTRIBUTING.md re balena-dev workflow
+      hash: b854edbc30129dc81c6391ea9c4357c9bbb92cd5
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Paulo Castro
+      nested: []
+    - subject: Add bin/balena* scripts to linter paths
+      hash: e6b69041f9d4411cfa46d75b3cd315a6b387f76b
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Paulo Castro
+      nested: []
+    - subject: Workaround balena-dev/oclif compatibility issues
+      hash: c85acbd90bbb5de3dae13638555365b7a1cb472c
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Scott Lowe <scott@balena.io>
+        signed-off-by: Scott Lowe <scott@balena.io>
+      author: Scott Lowe
+      nested: []
+  version: 12.23.4
+  date: 2020-10-02T23:22:21.590Z
+- commits:
     - subject: Rename actions-oclif/ to commands/
       hash: eddbdfe0dcea8df801d11d398e72f34c8354f7e1
       body: ''
