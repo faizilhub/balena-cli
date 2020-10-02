@@ -1,4 +1,19 @@
 - commits:
+    - subject: Treat authorization errors as expected
+      hash: 3b79a8dde4ce026b36cde5c422779a2aef2f30cf
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Resolves: '#2035'
+        resolves: '#2035'
+        Signed-off-by: Scott Lowe <scott@balena.io>
+        signed-off-by: Scott Lowe <scott@balena.io>
+      author: Scott Lowe
+      nested: []
+  version: 12.23.4
+  date: 2020-10-02T14:50:31.520Z
+- commits:
     - subject: Rename actions-oclif/ to commands/
       hash: eddbdfe0dcea8df801d11d398e72f34c8354f7e1
       body: ''
